@@ -1,0 +1,13 @@
+.search-nav{
+    width: 100vw;
+    height: 60px;
+    background-color: #FCF9C6;
+}
+
+.manage-table .table-card .table-card-body button{
+    color: white;
+}
+
+#group{
+    width: 100%;
+}
